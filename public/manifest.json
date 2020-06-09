@@ -1,6 +1,6 @@
 {
-  "short_name": "React-Webpack-Babel-App",
-  "name": "React-Webpack-Babel-App",
+  "short_name": "Othello",
+  "name": "Othello Game",
   "icons": [
     {
       "src": "favicon.ico",
