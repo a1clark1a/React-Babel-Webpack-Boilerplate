@@ -1,7 +1,7 @@
 {
-  "name": "othello-game",
+  "name": "react-babel-webpack-boilerplate",
   "version": "1.0.0",
-  "description": "An Othello board game Progressive Web App",
+  "description": "React-Babel-Webpack-Boilerplate",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --open --mode development",
